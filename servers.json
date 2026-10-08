@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "servers": [
+    {
+      "id": "bd-01",
+      "name": "Bangladesh",
+      "country": "BD",
+      "city": "Dhaka",
+      "profileUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/kh-vpn-configs/main/profiles/bangladesh.ovpn"
+    },
+    {
+      "id": "sg-01",
+      "name": "Singapore",
+      "country": "SG",
+      "city": "Singapore",
+      "profileUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/kh-vpn-configs/main/profiles/singapore.ovpn"
+    },
+    {
+      "id": "jp-01",
+      "name": "Japan",
+      "country": "JP",
+      "city": "Tokyo",
+      "profileUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/kh-vpn-configs/main/profiles/japan.ovpn"
+    },
+    {
+      "id": "in-01",
+      "name": "India",
+      "country": "IN",
+      "city": "Mumbai",
+      "profileUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/kh-vpn-configs/main/profiles/india.ovpn"
+    },
+    {
+      "id": "uk-01",
+      "name": "United Kingdom",
+      "country": "GB",
+      "city": "London",
+      "profileUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/kh-vpn-configs/main/profiles/uk.ovpn"
+    },
+    {
+      "id": "de-01",
+      "name": "Germany",
+      "country": "DE",
+      "city": "Frankfurt",
+      "profileUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/kh-vpn-configs/main/profiles/germany.ovpn"
+    },
+    {
+      "id": "nl-01",
+      "name": "Netherlands",
+      "country": "NL",
+      "city": "Amsterdam",
+      "profileUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/kh-vpn-configs/main/profiles/netherlands.ovpn"
+    },
+    {
+      "id": "us-01",
+      "name": "United States",
+      "country": "US",
+      "city": "New York",
+      "profileUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/kh-vpn-configs/main/profiles/usa.ovpn"
+    },
+    {
+      "id": "ca-01",
+      "name": "Canada",
+      "country": "CA",
+      "city": "Toronto",
+      "profileUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/kh-vpn-configs/main/profiles/canada.ovpn"
+    }
+  ]
+}
